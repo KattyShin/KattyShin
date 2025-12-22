@@ -88,7 +88,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kattyshin&theme=buefy&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FFB6C1&currStreakLabel=C71585" alt="GitHub Streak" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=kattyshin&theme=buefy&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FFB6C1&currStreakLabel=C71585&stroke=FF69B4" alt="GitHub Streak" width="70%" />
 </div>
 
 ---
