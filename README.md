@@ -73,12 +73,32 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kattyshin&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
+  <div style="background: white; border-radius: 15px; padding: 20px; flex: 1; min-width: 300px; box-shadow: 0 4px 15px rgba(255, 105, 180, 0.1); text-align: center;">
+    <h4 style="color: #ff69b4; margin-bottom: 15px;">📈 GitHub Statistics</h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=kattyshin&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="width: 100%; border-radius: 10px;" />
+  </div>
+  
+  <div style="background: white; border-radius: 15px; padding: 20px; flex: 1; min-width: 300px; box-shadow: 0 4px 15px rgba(255, 105, 180, 0.1); text-align: center;">
+    <h4 style="color: #ff69b4; margin-bottom: 15px;">💬 Top Languages</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kattyshin&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; border-radius: 10px;" />
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kattyshin&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+<hr style="height: 3px; background: linear-gradient(to right, #ff69b4, #ffb6c1); border: none; margin: 40px 0;">
+
+## 🌸 Currently Learning
+
+<div style="background: white; border-radius: 15px; padding: 20px; margin: 20px 0; box-shadow: 0 4px 15px rgba(255, 105, 180, 0.1); text-align: center;">
+  <p>
+    <span style="display: inline-block; padding: 8px 20px; background: linear-gradient(135deg, #ff69b4, #ffb6c1); color: white; border-radius: 20px; font-weight: bold; margin: 5px;">React Native</span>
+    <span style="display: inline-block; padding: 8px 20px; background: linear-gradient(135deg, #ff69b4, #ffb6c1); color: white; border-radius: 20px; font-weight: bold; margin: 5px;">TypeScript</span>
+    <span style="display: inline-block; padding: 8px 20px; background: linear-gradient(135deg, #ff69b4, #ffb6c1); color: white; border-radius: 20px; font-weight: bold; margin: 5px;">Node.js</span>
+    <span style="display: inline-block; padding: 8px 20px; background: linear-gradient(135deg, #ff69b4, #ffb6c1); color: white; border-radius: 20px; font-weight: bold; margin: 5px;">Tailwind CSS</span>
+  </p>
+  <p style="margin-top: 15px; font-style: italic; color: #666;">
+    "The beautiful thing about learning is that no one can take it away from you." - B.B. King
+  </p>
+</div>
