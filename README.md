@@ -8,9 +8,7 @@
 
 <br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=kattyshin&margin-w=15&margin-h=15&theme=buddhism&no-frame=true&column=4" alt="kattyshin trophies" />
-</a>
+
 
 </div>
 
@@ -87,9 +85,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kattyshin&theme=buefy&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FFB6C1&currStreakLabel=C71585&stroke=FF69B4" alt="GitHub Streak" width="70%" />
-</div>
 
 ---
 
