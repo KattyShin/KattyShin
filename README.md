@@ -3,9 +3,7 @@
 <h3 style="color: #FFB6D9;">✨ Aspiring Developer | Always Learning & Improving ✨</h3>
 <p style="color: #C71585;"><em>Passionate about building user-friendly applications and continuously expanding my technical skills.</em></p>
 <br>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=kattyshin&margin-w=15&margin-h=15&theme=buddhism&no-frame=true&column=4" alt="kattyshin trophies" />
-</a>
+
 </div>
 
 ---
