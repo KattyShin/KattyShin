@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🌸 Hi, I'm Katrina Shin 🌸
@@ -9,7 +8,9 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kattyshin&margin-w=15&margin-h=15&theme=buddhism&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=kattyshin&margin-w=15&margin-h=15&theme=buddhism&no-frame=true&column=4" alt="kattyshin trophies" />
+</a>
 
 </div>
 
@@ -33,32 +34,47 @@
 ## 🛠️ Tech Stack
 
 ### 💗 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-FFB6D9?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD4E5?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-FFB6D9?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-FFD4E5?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFB6D9?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-FFB6D9?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD4E5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-FFB6D9?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-FFD4E5?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-FFB6D9?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 ### 💕 Backend Development
-![Python](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-FFD4E5?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FFB6D9?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FFC0CB?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-FFD4E5?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-FFB6D9?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-FFC0CB?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
 
 ### 🌷 Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-FFD4E5?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-FFB6D9?style=for-the-badge&logo=flask&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/Django-FFD4E5?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-FFB6D9?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-FFC0CB?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFD4E5?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-FFC0CB?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FFD4E5?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
 
 ### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-FFB6D9?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FFD4E5?style=for-the-badge&logo=github&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-FFB6D9?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-FFD4E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
@@ -68,6 +84,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kattyshin&show_icons=true&locale=en&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=C71585&icon_color=FFB6C1" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kattyshin&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=C71585" alt="Top Languages" width="48%" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kattyshin&theme=buefy&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FFB6C1&currStreakLabel=C71585" alt="GitHub Streak" width="70%" />
@@ -79,9 +97,7 @@
 
 <div align="center">
 
-```
-🌺 React Native  •  💐 TypeScript  •  🌷 Node.js  •  🌹 Tailwind CSS
-```
+🌺 **React Native** • 💐 **TypeScript** • 🌷 **Node.js** • 🌹 **Tailwind CSS**
 
 <br>
 
@@ -95,7 +111,6 @@
   
 ### 💌 Thanks for visiting my profile! 💌
   
-![Profile Views](https://komarev.com/ghpvc/?username=kattyshin&color=FFB6D9&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=kattyshin&color=FFB6D9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
-```
