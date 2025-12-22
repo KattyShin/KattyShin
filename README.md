@@ -1,15 +1,11 @@
 <div align="center">
-
-# 🌸 Hi, I'm Katrina Shin 🌸
-
-### ✨ Aspiring Developer | Always Learning & Improving ✨
-
-*Passionate about building user-friendly applications and continuously expanding my technical skills.*
-
+<h1 style="color: #FF69B4;">🌸 Hi, I'm Katrina Shin 🌸</h1>
+<h3 style="color: #FFB6D9;">✨ Aspiring Developer | Always Learning & Improving ✨</h3>
+<p style="color: #C71585;"><em>Passionate about building user-friendly applications and continuously expanding my technical skills.</em></p>
 <br>
-
-
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=kattyshin&margin-w=15&margin-h=15&theme=buddhism&no-frame=true&column=4" alt="kattyshin trophies" />
+</a>
 </div>
 
 ---
@@ -89,16 +85,7 @@
 ---
 
 ## 🌸 Currently Learning
-
-<div align="center">
-
-🌺 **React Native** • 💐 **TypeScript** • 🌷 **Node.js** • 🌹 **Tailwind CSS**
-
-<br>
-
-*"The beautiful thing about learning is that no one can take it away from you."* — B.B. King
-
-</div>
+>
 
 ---
 
