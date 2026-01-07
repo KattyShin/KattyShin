@@ -11,7 +11,7 @@
 ## 💼 Experience & Background
 
 📄 **Want to know more about my journey?**  
-👉 [View my resume](https://docs.google.com/document/d/1DoIpDrdzq37F5KOIJ0Y8w6XUmy8_TVbqATc3829aIk8/edit?usp=sharing)
+👉 [View my Portfolio](https://portfolio-ns8qt2560-kattyshins-projects.vercel.app/)
 
 ---
 
