@@ -11,7 +11,7 @@
 ## 💼 Experience & Background
 
 📄 **Want to know more about my journey?**  
-👉 [View my Portfolio](https://portfolio-ns8qt2560-kattyshins-projects.vercel.app/)
+👉 [View my Portfolio]([https://portfolio-ns8qt2560-kattyshins-projects.vercel.app/](https://portfolio-beige-three-19.vercel.app/))
 
 ---
 
