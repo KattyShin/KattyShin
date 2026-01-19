@@ -91,6 +91,5 @@
   
 ### 💌 Thanks for visiting my profile! 💌
   
-<img src="https://komarev.com/ghpvc/?username=kattyshin&color=FFB6D9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
